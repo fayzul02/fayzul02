@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fayzul02/fayzul02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Fayzul
+---
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+Turning data into insights, and insights into impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=fayzul02&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📬 Let's Connect!
+
+<a href="https://www.linkedin.com/in/fayzul-haq-7a5bb231b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Besto%20Saragih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>  
+
+</div>
