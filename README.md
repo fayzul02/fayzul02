@@ -13,7 +13,7 @@ Turning data into insights, and insights into impact
 ## 📬 Let's Connect!
 
 <a href="https://www.linkedin.com/in/fayzul-haq-7a5bb231b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ryan%20Besto%20Saragih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Fayzul%20Haq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>  
 
 </div>
